@@ -1,0 +1,24 @@
+
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            'Microbiology'
+tagline:          'from http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.1 (CC-BY)'
+url:              https://github.com/philschatz/microbiology-book
+origin:           http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.1
+
+author:
+  name:           'Openstax'
+  url:            https://github.com/openstax
+
+paginate:         5
+
+# Custom vars
+version:          4.1
+
+bookviewer:       http://philschatz.com/book-viewer
+

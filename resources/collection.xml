@@ -1,0 +1,2382 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col12087/1.4</md:content-url>
+  <md:content-id>col12087</md:content-id>
+  <md:title>Microbiology </md:title>
+  
+  
+  <md:version>1.4</md:version>
+  <md:created>2016/10/17 15:24:35.981 GMT-5</md:created>
+  <md:revised>2016/11/01 13:57:10.171 GMT-5</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="cnxmicrobio">
+      <md:firstname>OpenStax College</md:firstname>
+      <md:surname>Microbiology</md:surname>
+      <md:fullname>OpenStax Microbiology</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">cnxmicrobio</md:role>
+    <md:role type="maintainer">cnxmicrobio</md:role>
+    <md:role type="licensor">cnxmicrobio</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  
+
+  <md:subjectlist>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+
+  <md:abstract></md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-microbiology"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m63247" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>An Invisible World</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58780" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58781" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>What Our Ancestors Knew</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58782" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>A Systematic Approach</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58783" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Types of Microorganisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>How We See the Invisible World</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58784" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58785" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Properties of Light</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58786" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Peering Into the Invisible World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58787" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Instruments of Microscopy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58788" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Staining Microscopic Specimens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Cell</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58789" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58790" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Spontaneous Generation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58791" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Foundations of Modern Cell Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58792" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Unique Characteristics of Prokaryotic Cells</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58793" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Unique Characteristics of Eukaryotic Cells</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Prokaryotic Diversity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58794" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58795" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Prokaryote Habitats, Relationships, and Microbiomes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58796" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Proteobacteria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58797" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Nonproteobacteria Gram-Negative Bacteria and Phototrophic Bacteria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58798" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Gram-Positive Bacteria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58799" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Deeply Branching Bacteria</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58800" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Archaea</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Eukaryotes of Microbiology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58801" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58802" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Unicellular Eukaryotic Parasites</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58803" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Parasitic Helminths</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58804" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Fungi</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58805" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Algae</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58806" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Lichens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Acellular Pathogens</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58807" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58808" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Viruses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58809" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Viral Life Cycle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58810" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Isolation, Culture, and Identification of Viruses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58811" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Viroids, Virusoids, and Prions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Biochemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58812" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58813" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Organic Molecules</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58814" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Carbohydrates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58815" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Lipids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58816" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Proteins</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58817" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Using Biochemistry to Identify Microorganisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Metabolism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58818" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58819" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Energy, Matter, and Enzymes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58820" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Catabolism of Carbohydrates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58821" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Cellular Respiration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58822" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fermentation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58823" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Catabolism of Lipids and Proteins</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58824" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Photosynthesis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58825" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Biogeochemical Cycles</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58827" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58828" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How Microbes Grow</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58829" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Oxygen Requirements for Microbial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58830" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Effects of pH on Microbial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58831" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Temperature and Microbial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58832" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Other Environmental Conditions that Affect Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58833" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Media Used for Bacterial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biochemistry of the Genome</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58834" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58835" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Using Microbiology to Discover the Secrets of Life</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58836" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Structure and Function of DNA</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58837" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Structure and Function of RNA</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58838" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Structure and Function of Cellular Genomes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mechanisms of Microbial Genetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58839" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58840" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Functions of Genetic Material</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58841" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>DNA Replication</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58842" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>RNA Transcription</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58843" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Protein Synthesis (Translation)</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58844" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Mutations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58845" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How Asexual Prokaryotes Achieve Genetic Diversity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58846" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Gene Regulation: Operon Theory</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Modern Applications of Microbial Genetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58847" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58848" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Microbes and the Tools of Genetic Engineering</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58849" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Visualizing and Characterizing DNA, RNA, and Protein</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58850" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Whole Genome Methods and Pharmaceutical Applications of Genetic Engineering</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58851" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Gene Therapy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Control of Microbial Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58852" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58853" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Controlling Microbial Growth</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58854" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Using Physical Methods to Control Microorganisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58855" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Using Chemicals to Control Microorganisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58856" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Testing the Effectiveness of Antiseptics and Disinfectants</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Antimicrobial Drugs</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58857" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58858" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>History of Chemotherapy and Antimicrobial Discovery</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58859" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Fundamentals of Antimicrobial Chemotherapy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58860" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Mechanisms of Antibacterial Drugs</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58861" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Mechanisms of Other Antimicrobial Drugs</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58862" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Drug Resistance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58864" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Testing the Effectiveness of Antimicrobials</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m63248" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Current Strategies for Antimicrobial Discovery</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Mechanisms of Pathogenicity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58865" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58866" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Characteristics of Infectious Disease</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58867" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>How Pathogens Cause Disease</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58868" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Virulence Factors of Bacterial and Viral Pathogens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58869" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Virulence Factors of Eukaryotic Pathogens</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Disease and Epidemiology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58870" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58871" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Language of Epidemiologists</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58872" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Tracking Infectious Diseases</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58873" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Modes of Disease Transmission</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58874" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Global Public Health</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Innate Nonspecific Host Defenses</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58876" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58877" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Physical Defenses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58878" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Chemical Defenses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58879" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Cellular Defenses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58880" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Pathogen Recognition and Phagocytosis</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58881" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Inflammation and Fever</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Adaptive Specific Host Defenses</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58883" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58884" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Overview of Specific Adaptive Immunity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58885" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Major Histocompatibility Complexes and Antigen-Presenting Cells</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58886" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>T Lymphocytes and Cellular Immunity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58887" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>B Lymphocytes and Humoral Immunity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58888" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Vaccines</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Diseases of the Immune System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58891" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58892" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Hypersensitivities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58893" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Autoimmune Disorders</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58894" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Organ Transplantation and Rejection</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58895" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Immunodeficiency</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58896" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Cancer Immunobiology and Immunotherapy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Laboratory Analysis of the Immune Response</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58899" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58900" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Polyclonal and Monoclonal Antibody Production</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58901" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Detecting Antigen-Antibody Complexes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58902" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Agglutination Assays</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58903" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>EIAs and ELISAs</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58904" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fluorescent Antibody Techniques</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Skin and Eye Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58905" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58906" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy and Normal Microbiota of the Skin and Eyes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58907" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Bacterial Infections of the Skin and Eyes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58908" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Viral Infections of the Skin and Eyes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58909" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Mycoses of the Skin</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58910" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Protozoan and Helminthic Infections of the Skin and Eyes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Respiratory System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58911" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58912" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy and Normal Microbiota of the Respiratory Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58913" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Infections of the Respiratory Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58914" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Viral Infections of the Respiratory Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58915" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Respiratory Mycoses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Urogenital System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58916" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58917" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy and Normal Microbiota of the Urogenital Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58918" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Infections of the Urinary System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58919" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Infections of the Reproductive System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58920" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Viral Infections of the Reproductive System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58921" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fungal Infections of the Reproductive System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58922" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Protozoan Infections of the Urogenital System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Digestive System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58923" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58924" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy and Normal Microbiota of the Digestive System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58925" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Microbial Diseases of the Mouth and Oral Cavity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58933" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Infections of the Gastrointestinal Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58930" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Viral Infections of the Gastrointestinal Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58931" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Protozoan Infections of the Gastrointestinal Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58932" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Helminthic Infections of the Gastrointestinal Tract</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Circulatory and Lymphatic System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58934" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58945" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy of the Circulatory and Lymphatic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58936" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Infections of the Circulatory and Lymphatic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58937" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Viral Infections of the Circulatory and Lymphatic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58938" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Parasitic Infections of the Circulatory and Lymphatic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Nervous System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58939" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58940" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Anatomy of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58941" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Bacterial Diseases of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58942" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Acellular Diseases of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58943" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fungal and Parasitic Diseases of the Nervous System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m58946" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fundamentals of Physics and Chemistry Important to Microbiology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58947" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Mathematical Basics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58948" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Metabolic Pathways</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58949" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Taxonomy of Clinically Relevant Microorganisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m58950" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Glossary</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+  </col:content>
+</col:collection>
