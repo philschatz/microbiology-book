@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Microbiology'
-tagline:          'from http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.4 (CC-BY)'
+tagline:          'from http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.7 (CC-BY)'
 url:              https://github.com/philschatz/microbiology-book
-origin:           http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.4
+origin:           http://cnx.org/contents/e42bd376-624b-4c0f-972f-e0c57998e765@4.7
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          4.4
+version:          4.7
 
 bookviewer:       http://philschatz.com/book-viewer
 
